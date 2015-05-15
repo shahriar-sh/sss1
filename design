@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<title>shahriar: :t1</title>
+<head>
+ <link rel="stylesheet" href="styles.css">
+ <link rel="stylesheet" href="mystyle.css">
+
+in the name of god
+</head>
+
+<body> 
+<hr/>
+<h1>this is  just a note.</h1><hr />
+<p1>this is paragraph 1 </p1><hr />
+<p2> this is paragraph 2 </p2></br>
+<p3><h2>paragraph 3 - this is a good chois for porograming</h2></p3>
+<p id="para1"> that ok just for test. </p>
+<h class=''arak">class arak : arak is the best city in iran</h></hr>
+<p5 class="arak">class arak : you shoud never be tieard you shoud practis more and more .</p5>
+
+</br>
+<a href="file:///C:/Users/shahriar/Desktop/HTML%20web/t2.htm "> Back to the t2 last page </a></br>
+
+<img src="/C:\Users\shahriar\Desktop\HTML web/G0010756.JPG" width="244" height="242" alt="bbsalam.ir" />
+<img src="/C:\Users\shahriar\Desktop\HTML web\ss.gif" width="144" height="142" alt="shahriar iran" />
+</body>
+</html>
